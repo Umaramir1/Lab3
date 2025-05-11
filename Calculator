@@ -1,1 +1,2 @@
-  cout << "Umar Amir, 24-ST-012";
+  cout << "Umar Amir, 24-ST-012
+cout << "Subtraction of a and b is " << (a - b);  
