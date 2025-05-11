@@ -1,2 +1,6 @@
   cout << "Umar Amir, 24-ST-012";
+Division
 cout << "Division of a and b is " << (a / b);
+
+cout << "Multiplication of a and b is " << (a * b);
+ Multiplication
